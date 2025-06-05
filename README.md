@@ -2,22 +2,29 @@
 
 ¡Bienvenido a mi perfil de GitHub!
 
-Soy un desarrollador frontend con experiencia en React, Javascript y TypeScript.
+Soy un desarrollador frontend con experiencia en **React**, **JavaScript** y **TypeScript**.
 
-Actualmente estoy explorando C# y el desarrollo backend con NodeJS y ExpressJS, mientras sigo mejorando mis competencias en TypeScript y profundizando en el desarrollo de interfaces intuitivas y funcionales.
+Actualmente estoy profundizando en **Next.js**, especialmente en su enfoque de Server-Side Rendering, y explorando el desarrollo backend con **Node.js** y **Express**.
+
+Me enfoco en escribir código limpio, modular y escalable, mientras sigo perfeccionando mis habilidades en **TypeScript** y en la creación de interfaces intuitivas y funcionales.
 
 ## 🚀 Sobre mí
 
 - 💻 Me gradué en la **Carrera de Desarrollo Frontend con React** en _Coderhouse_
-- 📜 También completé varias certificaciones en _freeCodeCamp_, incluyendo: **Backend Development & APIs**, **Relational Databases** y recientemente el **Foundational C# Certification** en colaboración con Microsoft
-- 🔎 Actualmente, estoy aprendiendo **C#**, **Entity Framework** y **LINQ** para expandir mis habilidades en el desarrollo de aplicaciones backend
+- 📘 Terminé rutas de aprendizaje completas en _Platzi_, como:
+  - **Fundamentos de TypeScript**
+  - **Full Stack con Next.js**
+- 🧠 Completé certificaciones en _freeCodeCamp_, incluyendo:
+  - **Back End Development and APIs**
+  - **Relational Databases**
+- 📌 También exploré otros stacks como **.NET y C#**, aunque hoy estoy enfocado en el ecosistema JavaScript y el desarrollo frontend moderno.
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind
-- **Backend**: NodeJS, TypeScript, ExpressJS, REST APIs
+- **Frontend**: HTML, CSS, JavaScript, React, Next.js, Tailwind
+- **Backend**: Node.js, TypeScript, Express, REST APIs
 - **Bases de Datos**: SQL, MongoDB, PostgreSQL
-- **Herramientas**: Git, Github, pnpm, Vite, TypeScript
+- **Herramientas**: Git, Github, npm, VSCode
 
 ## 🎓 Educación y Certificaciones
 
@@ -27,6 +34,7 @@ Actualmente estoy explorando C# y el desarrollo backend con NodeJS y ExpressJS, 
   - Curso de React.js
 - **Platzi**:
   - Ruta de Aprendizaje de TypeScript
+  - Ruta Full Stack con Next.js
   - Ruta de Aprendizaje de Backend con C# y .NET
 - **freeCodeCamp**:
   - Relational Database Certification
@@ -35,8 +43,8 @@ Actualmente estoy explorando C# y el desarrollo backend con NodeJS y ExpressJS, 
 
 ## 📫 Conectemos
 
-Si querés hablar sobre programación, colaboración en proyectos, o simplemente conectar, ¡no dudés en contactarme!
+Si querés hablar sobre programación, colaboración en proyectos, o simplemente conectar, ¡no dudés en escribirme!
 
 - **LinkedIn**: [andymedinadev](https://www.linkedin.com/in/andymedinadev/)
 - **Email**: [andymedinadev@gmail.com](mailto:andymedinadev@gmail.com)
-- **Potfolio**: [Portfolio Personal](https://andymedinadev.vercel.app/)
+- **Portfolio**: [Portfolio Personal](https://andymedinadev.vercel.app/)
